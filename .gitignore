@@ -1,0 +1,12 @@
+# Entorno
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Carpeta de distribución local
+.dist/
